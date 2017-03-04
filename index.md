@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages THe read me
+## Welcome to GitHub Pages  INdex
 Here is how to edit
 
 
