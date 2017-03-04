@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ---
 title: This is my title
 layout: post
 ---
 ## Welcome to GitHub Pages THe read me
+=======
+## Welcome to GitHub Pages  INdex
+>>>>>>> 90688f32926c44f99ac3a8c32e90ff8e71c12d77
 Here is how to edit
 
 
