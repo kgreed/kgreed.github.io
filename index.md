@@ -2,9 +2,7 @@
 title: This is my title
 layout: default
 ---
-## Welcome to GitHub Pages THe read me
-=======
-## Welcome to GitHub Pages  INdex
+## Welcome to GitHub Pages My Index.md
 Here is how to edit
 
 
