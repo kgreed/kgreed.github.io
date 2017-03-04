@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages3
+## Welcome to GitHub Pages docs
 Here is how to edit
 
 
