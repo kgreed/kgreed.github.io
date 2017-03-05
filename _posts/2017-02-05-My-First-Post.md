@@ -1,4 +1,4 @@
 ---
-layout: default
+layout: post
 ---
 Here is my first post
