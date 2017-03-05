@@ -3,13 +3,13 @@ layout: default
 ---
 ## Welcome to GitHub Pages My Index.md 3
 Here is  [my first post](/_posts/2017/02/05/My-First-Post.md) 
- `<ul>
-  {% for post in site.posts %}
-    <li>
+ 
+     {% for post in site.posts %}
+     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>`
+     </li>
+     {% endfor %}
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
