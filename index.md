@@ -2,10 +2,8 @@
 layout: default
 ---
 ## Welcome to GitHub Pages My Index.md 3
-You can use the [editor on GitHub](https://github.com/kgreed/kgreed.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Here is  [my first post](https://github.com/kgreed/kgreed.github.io/master/_posts/2017-02-05-My-First-Post.md) 
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
