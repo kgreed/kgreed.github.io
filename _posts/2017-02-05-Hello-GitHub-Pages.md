@@ -9,7 +9,7 @@ but without dissapearing down a rabbit hole.
 
 I am so pleased to say I have it working, without needing to install Jekyll on my machine or even fumble with git command lines.
 
-I found the instructions at[https://pages.github.com/](https://pages.github.com/ "GitHub Pages") somewhat confusing.
+I found the instructions at[ GitHub Pages ](https://pages.github.com/ "GitHub Pages") somewhat confusing.
 
 The draw card phrase "*Hosted directly from your GitHub repository. Just edit, push, and your changes are live.*"  gave me the idea that I need not actually install anything local to my computer. And indeed this is actually the case.  
 
@@ -74,16 +74,9 @@ Carefully following the nameing convention, and adding YAML Front matter to hook
     category: code,Github-pages
     ---
 
-One more bit of confussion, the video at [https://pages.github.com/](https://pages.github.com/ "GitHub Pages")  mentions an Automatic Page Generator.
+One more bit of confussion, the video at [ GitHub Pages ](https://pages.github.com/ "GitHub Pages")  mentions an Automatic Page Generator.
 
-However this is discontinued because of 
-[https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/ "Theme chooser")
+However this is discontinued because of the 
+[ Theme Chooser ](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/ "Theme chooser")
 
- 
-
-
-
-
-
-
- 
+  
