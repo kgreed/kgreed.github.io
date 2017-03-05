@@ -2,7 +2,7 @@
 layout: default
 ---
 ## Welcome to GitHub Pages My Index.md 3
-Here is  [my first post](https:kirstengreed.com/2017/02/05/My-First-Post.md) 
+Here is  [my first post](https://github.com/kgreed/kgreed.github.io/2017/02/05/My-First-Post.md) 
  
 ### Markdown
 
