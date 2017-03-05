@@ -1,5 +1,5 @@
 ---
 layout: post
-category: coding
+category: code,Github-pages
 ---
-Here is my first post
+When I heard about GitHub pages, I wanted to give it a try.

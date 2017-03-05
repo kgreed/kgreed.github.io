@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-Journeys in code and focus.
+Kirsten Greed's blog
